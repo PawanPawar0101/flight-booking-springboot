@@ -1,0 +1,5 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEBINF/views/
+      suffix: .jsp
